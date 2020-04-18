@@ -1,5 +1,5 @@
 # tweet-del
-## tbd
+## Delete your tweets using a simple script written in Golang.
 
 ### Step 1: Create a personal backup of all your tweets
 In order to delete all your tweets, you need to get a backup of your data first. Twitter allows you to easily export all of your past tweets into a CSV file which hou need for the next steps.
