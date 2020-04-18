@@ -33,9 +33,9 @@ Afterwards, run the script (like this on MacOS):
 
 ## 3rd party
 The project uses the following libraries:
-- [araddon/dateparse]("https://github.com/araddon/dateparse")
-- [dghubble/go-twitter]("https://github.com/dghubble/go-twitter/twitter")
-- [dghubble/oauth1]("https://github.com/dghubble/oauth1")
+- [araddon/dateparse](https://github.com/araddon/dateparse)
+- [dghubble/go-twitter](https://github.com/dghubble/go-twitter/twitter)
+- [dghubble/oauth1](https://github.com/dghubble/oauth1)
 
 ## License
 The project is licensed under the [MIT license](LICENSE.md). 
