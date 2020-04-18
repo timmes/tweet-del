@@ -2,7 +2,7 @@
 ## Delete your tweets using a simple script written in Golang.
 
 ### Step 1: Create a personal backup of all your tweets
-In order to delete all your tweets, you need to get a backup of your data first. Twitter allows you to easily export all of your past tweets into a CSV file which hou need for the next steps.
+In order to delete all your tweets, you need to get a backup of your data first. Twitter allows you to easily export all of your past tweets into a .js file which you need for the next steps.
 
 Navigate to the “Your Twitter Data” section on [Twitter's settings page](https://twitter.com/settings/your_twitter_data). You'll receive a .zip file by mail from Twitter.
 
@@ -30,3 +30,12 @@ Open your terminal, navigate to the folder of this script and build the script:
 
 Afterwards, run the script (like this on MacOS):
 `./tweet-del`
+
+## License
+The project is licensed under the [MIT license](LICENSE.md).
+
+## 3rd party
+The project uses the following libraries:
+- [araddon/dateparse]("github.com/araddon/dateparse")
+- [dghubble/go-twitter]"(github.com/dghubble/go-twitter/twitter")
+- [dghubble/oauth1]("github.com/dghubble/oauth1")
