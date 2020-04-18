@@ -38,4 +38,4 @@ The project uses the following libraries:
 - [dghubble/oauth1]("github.com/dghubble/oauth1")
 
 ## License
-The project is licensed under the [MIT license](LICENSE.md).
+The project is licensed under the [MIT license](LICENSE.md). 
