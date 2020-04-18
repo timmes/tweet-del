@@ -31,11 +31,11 @@ Open your terminal, navigate to the folder of this script and build the script:
 Afterwards, run the script (like this on MacOS):
 `./tweet-del`
 
-## License
-The project is licensed under the [MIT license](LICENSE.md).
-
 ## 3rd party
 The project uses the following libraries:
 - [araddon/dateparse]("github.com/araddon/dateparse")
 - [dghubble/go-twitter]"(github.com/dghubble/go-twitter/twitter")
 - [dghubble/oauth1]("github.com/dghubble/oauth1")
+
+## License
+The project is licensed under the [MIT license](LICENSE.md).
